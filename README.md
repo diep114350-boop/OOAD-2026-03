@@ -33,3 +33,5 @@ Nhóm Vận hành và Xử lý nghiệp vụ (Nhân viên & Chủ cửa hàng):
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
+
+![alt text](image-3.png)
